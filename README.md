@@ -1,2 +1,2 @@
 # FLUID
-Flexible Layout Utilizing IndependentDevelopment
+Flexible Layout Utilizing Independent Development
