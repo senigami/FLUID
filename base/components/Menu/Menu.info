@@ -1,0 +1,9 @@
+name = Menu
+description = "Uses DB to store menu items and options"
+version = "1.0"
+created = "1/25/2017"
+modified = "1/25/2017"
+maintainer = "Steven Dunn"
+requires[] = "DB"
+requires[] = "LDAP"
+requires[] = "Access"

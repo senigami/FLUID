@@ -1,0 +1,49 @@
+table{ font-size: 12px}
+button.small_btn{ padding: 2px; padding-left: 8px; padding-right: 8px; z-index: 100}
+button.small_btn span{ color: white; font-size: 11px;}
+.required{color: red; font-weight: bold}
+.updated{color: blue}
+.global{ color: green; }
+.global_section{color: white};
+
+/*modal*/
+.modal-header{
+		-webkit-border-radius: 5px 5px 0px 0px;
+		-moz-border-radius: 5px 5px 0px 0px;
+		border-radius: 5px 5px 0px 0px;
+		cursor: pointer;
+}
+.modal-content{
+	-webkit-border-radius: 8px 8px 5px 5px;
+	-moz-border-radius: 8px 8px 5px 5px;
+	border-radius: 8px 8px 5px 5px;
+
+}
+.modal-form {
+	padding: 0px;
+	background-color: #fdfdfd;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+.modal-form-body{
+	background-color: white;
+	border-top: 1px dotted #E5E5E5;
+	padding-top: 15px;
+
+}
+
+/*dialog*/
+.menu_dialog {z-index: 9998 !important; background-color: white; border: 1px solid gray;}
+.menu_dialog .ui-dialog-titlebar{padding: 6px;}
+						 .ui-dialog-titlebar-close {  display: none;}
+						 .ui-dialog-buttonset{ text-align: center}
+						 .ui-dialog-buttonset button{ margin: 8px;}
+						 .ui-widget-content { background-color: white; border: 0px}
+
+/*help section*/
+span.help{font-size: 22px; color: #0C75BC; cursor: pointer}
+.help:hover{ color: #23527C}
+#icon_help_div{float: right;  padding-bottom: 9px; padding-left: 10px; padding-right: 10px; padding-top: 6px; margin-bottom: -10px;}
+#icon_help_div.opened{background-color:#f7f7f7; }
+#div_help{background-color:#f7f7f7; font-size: 12px; padding: 10px; margin-top: 8px; }
+#div_help table{background-color: white}

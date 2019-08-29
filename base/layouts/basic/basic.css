@@ -1,0 +1,47 @@
+.level1{ padding-left: 20px;}
+.level2{ padding-left: 40px;}
+.level3{ padding-left: 60px;}
+.title{ padding: 8px; font-size:16px; font-weight: bold; color: #696969;  border-bottom: 1px dotted #ccc}
+.table{font-size: 12px;}
+
+
+.dialog_confirm {z-index: 9998 !important; background-color: white; border: 1px solid gray;}
+.dialog_confirm .ui-dialog-titlebar{padding: 6px;}
+						 .ui-dialog-titlebar-close {  display: none;}
+						 .ui-dialog-buttonset{ text-align: center}
+						 .ui-dialog-buttonset button{ margin: 8px;}
+						 .ui-widget-content { background-color: white; border: 0px}
+
+.form-content{ padding: 10px; }
+.required{color: red; font-weight: bold}
+
+.form-control.error {	border: 1px solid red; }
+
+
+div.edit_area{
+	padding: 5px;
+	position: relative;
+	border: 0px;
+}
+div.edit_area:hover{
+	border: 1px dashed grey;
+	padding: 4px;
+}
+
+div.edit_area:hover .edit{
+	display: block;
+}
+
+div.edit_area .edit{
+	margin-top: -10px;
+	display: none;
+	/*font-size: 11px;
+	padding: 5px 8px 5px 8px;*/
+	position: absolute;
+	right: -8px;
+	top: -8px;
+}
+
+.edit{
+
+}

@@ -1,0 +1,7 @@
+name = Cache
+description = "stores generated items for quick retrieval later"
+version = "1.0"
+created = "1/25/2017"
+modified = "1/25/2017"
+maintainer = "Steven Dunn"
+requires[] = "DB"

@@ -1,0 +1,7 @@
+name = LDAP
+description = "provides LDAP information for users and groups"
+version = "1.0"
+created = "12/07/2016"
+modified = "12/07/2016"
+maintainer = "Ellen Noh"
+requires[] = "PDO_DB"

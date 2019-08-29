@@ -1,0 +1,7 @@
+name = getURL
+description = "load data from a remote server"
+version = "1.0"
+created = "6/13/2017"
+modified = "6/13/2017"
+maintainer = "Steven Dunn"
+requires[] = ""

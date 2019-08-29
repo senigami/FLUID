@@ -1,0 +1,7 @@
+name = pathMap
+description = "Allows files to load from non standard paths"
+version = "1.0"
+created = "1/20/2017"
+modified = "1/20/2017"
+maintainer = "Steven Dunn"
+requires[] = "DB"
